@@ -7,29 +7,7 @@
 
 ## 🌳 프로젝트 tree
  
- src
-    ├── main
-    │   ├── java
-    │   │   └── com
-    │   │       └── programmers
-    │   │           └── java
-    │   │               └── baseball
-    │   │                   ├── App.java
-    │   │                   ├── Console.java
-    │   │                   ├── FakerNumberGenerator.java
-    │   │                   ├── HackFakerNumberGenerator.java
-    │   │                   └── engine
-    │   │                       ├── BaseBall.java
-    │   │                       ├── io
-    │   │                       │   ├── Input.java
-    │   │                       │   ├── NumberGenerator.java
-    │   │                       │   └── Output.java
-    │   │                       └── model
-    │   │                           ├── BallCount.java
-    │   │                           └── Numbers.java
-    │   └── resources
-    └── test
-        ├── java
-        └── resources
+![image](https://user-images.githubusercontent.com/35947674/160085467-7aefb830-347c-40e4-b8f7-78815095df39.png)
+
         
  - [velog - 숫자 야구 게임](https://velog.io/@hye_b/TIL-%EC%88%AB%EC%9E%90-%EC%95%BC%EA%B5%AC-%EA%B2%8C%EC%9E%84)
