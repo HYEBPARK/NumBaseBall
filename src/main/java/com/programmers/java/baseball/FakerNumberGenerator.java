@@ -14,8 +14,9 @@ public class FakerNumberGenerator implements NumberGenerator {
 
         return new Numbers(
                 Stream.generate(() -> faker.number().randomDigitNotZero())
-                    .limit(count)
-                    .toArray(Integer[]::new)
+                        .distinct()
+                        .limit(count)
+                        .toArray(Integer[]::new)
         );
     }
 }
